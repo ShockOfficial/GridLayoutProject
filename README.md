@@ -2,4 +2,4 @@
 
 ## About
 Project made to use css grid knowlage in pratcise.
-Moder eye-catchy design.
+Modern eye-catchy design.
